@@ -1,8 +1,13 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:0d1117&height=200&section=header&text=Hey,%20I'm%20Jared%20👋&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineering%20Student%20%7C%20Backend%20%26%20Data%20Engineering&descAlignY=58&descAlign=50" />
+# Hey, I'm Jared 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=1F6FEB&center=true&vCenter=true&width=500&lines=BCom+Software+Engineering+%40+Belgium+Campus;Backend+%26+Data+Engineering+Enthusiast;Year+4+Industry+Practical+Incoming+🚀)](https://git.io/typing-svg)
+### Software Engineering Student @ Belgium Campus ITversity, Pretoria
+### BCom Software Engineering | Business Intelligence Stream
+
+[![GitHub](https://img.shields.io/badge/GitHub-mnrjared-181717?style=for-the-badge&logo=github)](https://github.com/mnrjared)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Jared%20Swanepoel-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/jared-swanepoel-22828236b/)
+[![Email](https://img.shields.io/badge/Email-mnrjared@gmail.com-D14836?style=for-the-badge&logo=gmail)](mailto:mnrjared@gmail.com)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=mnrjared&color=1f6feb&style=flat&label=Profile+Views)
 
@@ -14,38 +19,11 @@
 
 <div align="center">
 
-![Python](https://skillicons.dev/icons?i=py)
-![JavaScript](https://skillicons.dev/icons?i=js)
-![TypeScript](https://skillicons.dev/icons?i=ts)
-![Node.js](https://skillicons.dev/icons?i=nodejs)
-![Express](https://skillicons.dev/icons?i=express)
-![React](https://skillicons.dev/icons?i=react)
-![MongoDB](https://skillicons.dev/icons?i=mongodb)
-![MySQL](https://skillicons.dev/icons?i=mysql)
-![Git](https://skillicons.dev/icons?i=git)
-![Linux](https://skillicons.dev/icons?i=linux)
-![VMware](https://skillicons.dev/icons?i=vmware)
+[![My Skills](https://skillicons.dev/icons?i=py,js,ts,nodejs,express,react,mongodb,mysql,git,linux)](https://skillicons.dev)
 
 </div>
 
 **ML/AI:** XGBoost, LightGBM, YOLOv8, SHAP, Plotly Dash
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mnrjared&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=1f6feb&icon_color=1f6feb"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mnrjared&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=1f6feb"/>
-
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=mnrjared&theme=github-dark-blue&hide_border=true&background=0d1117&ring=1f6feb&fire=1f6feb&currStreakLabel=1f6feb)](https://git.io/streak-stats)
-
-</div>
 
 ---
 
@@ -70,18 +48,6 @@
 
 ---
 
-## 📫 Get in Touch
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-mnrjared-181717?style=for-the-badge&logo=github)](https://github.com/mnrjared)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Jared%20Swanepoel-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/jared-swanepoel-22828236b/)
-[![Email](https://img.shields.io/badge/Email-mnrjared@gmail.com-D14836?style=for-the-badge&logo=gmail)](mailto:mnrjared@gmail.com)
-
-</div>
-
----
-
 ## 👥 People I Collaborated With
 
 <div align="center">
@@ -97,10 +63,4 @@
 
 ---
 
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:0d1117&height=100&section=footer" />
-
 *Year 4 industry practical incoming - open to junior dev, backend, and data engineering roles in Gauteng.*
-
-</div>
