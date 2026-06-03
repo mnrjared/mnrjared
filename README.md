@@ -40,6 +40,18 @@ Currently in my third year and studying towards a BCom in Software Engineering w
 ## 📫 Get in Touch
 
 [![GitHub](https://img.shields.io/badge/GitHub-mnrjared-181717?style=flat&logo=github)](https://github.com/mnrjared)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Jared%20Swanepoel-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/jared-swanepoel-22828236b/)
+[![Email](https://img.shields.io/badge/Email-mnrjared@gmail.com-D14836?style=flat&logo=gmail)](mailto:mnrjared@gmail.com)
+
+---
+
+## 👥 People I Collaborated with
+
+[![GitHub](https://img.shields.io/badge/GitHub-Jandre-181717?style=flat&logo=github)](https://github.com/JCNEE)
+[![GitHub](https://img.shields.io/badge/GitHub-Henri-181717?style=flat&logo=github)](https://github.com/Henri-Claassen)
+[![GitHub](https://img.shields.io/badge/GitHub-Michael-181717?style=flat&logo=github)](https://github.com/Mcyespitlick)
+[![GitHub](https://img.shields.io/badge/GitHub-Chanri-181717?style=flat&logo=github)](https://github.com/chanri0702-jpg)
+[![GitHub](https://img.shields.io/badge/GitHub-Nicholas-181717?style=flat&logo=github)](https://github.com/Nicholas005)
 
 ---
 
