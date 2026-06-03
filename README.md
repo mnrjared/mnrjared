@@ -18,7 +18,7 @@ Currently in my third year and studying towards a BCom in Software Engineering w
 
 ## 📌 Projects
 
-- **Smart Event Management & Ticketing Platform** — Node.js / Express / MongoDB REST API
+- **Smart Event Management & Ticketing Platform** - Node.js / Express / MongoDB REST API
 - **BC Analytics** - ML decision support system using XGBoost, K-Means, SHAP, and Plotly Dash
 - **Credit Risk Assessment** - Classification model deployed on Render
 
