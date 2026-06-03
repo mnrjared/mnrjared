@@ -24,6 +24,7 @@ Currently in my third year and studying towards a BCom in Software Engineering w
 - **[Superhero Management C# Application](https://github.com/mnrjared/Superhero-Management-Csharp-Application)** - Windows Forms app with hero management, custom animated UI, and a built-in Pacman game
 - **[RetroSlice Customer Management System](https://github.com/mnrjared/RetroSlice-Customer-Management-System)** - C# console app for managing customers, game tokens, and arcade games at a fictional entertainment venue
 - **[Ringo Wanted Website](https://github.com/mnrjared/Ringo-Wanted-Website)** - Wild West themed bounty hunter portfolio site with animated transitions, sound effects, and a custom crosshair cursor
+- **[Mini Smart Farm](https://github.com/mnrjared/Mini-Smart-Farm)** - Full-stack IoT farm management system built in collaboration with Pennsylvania State University. React + TypeScript frontend, Node.js + Express backend, MySQL, MQTT for real-time sensor data, and AI-powered predator detection via a Raspberry Pi camera. Deployed to Ubuntu Server as a systemd service.
 
 ---
 
