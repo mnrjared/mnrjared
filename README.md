@@ -52,6 +52,7 @@ Currently in my third year and studying towards a BCom in Software Engineering w
 - [![GitHub](https://img.shields.io/badge/GitHub-Michael-181717?style=flat&logo=github)](https://github.com/Mcyespitlick)
 - [![GitHub](https://img.shields.io/badge/GitHub-Chanri-181717?style=flat&logo=github)](https://github.com/chanri0702-jpg)
 - [![GitHub](https://img.shields.io/badge/GitHub-Nicholas-181717?style=flat&logo=github)](https://github.com/Nicholas005)
+- [![GitHub](https://img.shields.io/badge/GitHub-Rivan-181717?style=flat&logo=github)](https://github.com/Rivan-Maritz)
 
 ---
 
