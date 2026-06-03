@@ -47,11 +47,11 @@ Currently in my third year and studying towards a BCom in Software Engineering w
 
 ## 👥 People I Collaborated with
 
-[![GitHub](https://img.shields.io/badge/GitHub-Jandre-181717?style=flat&logo=github)](https://github.com/JCNEE)
-[![GitHub](https://img.shields.io/badge/GitHub-Henri-181717?style=flat&logo=github)](https://github.com/Henri-Claassen)
-[![GitHub](https://img.shields.io/badge/GitHub-Michael-181717?style=flat&logo=github)](https://github.com/Mcyespitlick)
-[![GitHub](https://img.shields.io/badge/GitHub-Chanri-181717?style=flat&logo=github)](https://github.com/chanri0702-jpg)
-[![GitHub](https://img.shields.io/badge/GitHub-Nicholas-181717?style=flat&logo=github)](https://github.com/Nicholas005)
+- [![GitHub](https://img.shields.io/badge/GitHub-Jandre-181717?style=flat&logo=github)](https://github.com/JCNEE)
+- [![GitHub](https://img.shields.io/badge/GitHub-Henri-181717?style=flat&logo=github)](https://github.com/Henri-Claassen)
+- [![GitHub](https://img.shields.io/badge/GitHub-Michael-181717?style=flat&logo=github)](https://github.com/Mcyespitlick)
+- [![GitHub](https://img.shields.io/badge/GitHub-Chanri-181717?style=flat&logo=github)](https://github.com/chanri0702-jpg)
+- [![GitHub](https://img.shields.io/badge/GitHub-Nicholas-181717?style=flat&logo=github)](https://github.com/Nicholas005)
 
 ---
 
