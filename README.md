@@ -3,7 +3,7 @@
 # Hey, I'm Jared 👋
 
 ### Software Engineering Student @ Belgium Campus ITversity, Pretoria
-### BCom Software Engineering | Business Intelligence Stream
+### BCom Software Engineering | Software Engineering Stream and Business Intelligence Stream
 
 [![GitHub](https://img.shields.io/badge/GitHub-mnrjared-181717?style=for-the-badge&logo=github)](https://github.com/mnrjared)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Jared%20Swanepoel-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/jared-swanepoel-22828236b/)
