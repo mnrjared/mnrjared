@@ -1,7 +1,7 @@
 # Hey, I'm Jared 👋
 
 Software Engineering student at Belgium Campus ITversity, Pretoria.  
-Currently in my third year and studying towards a BCom in Software Engineering with a extra Business Intelligence stream.
+Currently in my third year and studying towards a BCom in Software Engineering with an extra Business Intelligence stream.
 
 ---
 
@@ -18,16 +18,19 @@ Currently in my third year and studying towards a BCom in Software Engineering w
 
 ## 📌 Projects
 
-- **Smart Event Management & Ticketing Platform** - Node.js / Express / MongoDB REST API
-- **BC Analytics** - ML decision support system using XGBoost, K-Means, SHAP, and Plotly Dash
-- **Credit Risk Assessment** - Classification model deployed on Render
+- **[Smart Event Management and Ticketing Platform](https://github.com/mnrjared/Smart-Event-Management-and-Ticketing-Platform)** - Node.js / Express / MongoDB REST API
+- **[Diabetes Risk Segmentation and Decision Support System](https://github.com/mnrjared/Diabetes-Risk-Segmentation-and-Decision-Support-System)** - ML decision support system using XGBoost, K-Means, SHAP, and Plotly Dash
+- **[Credit Risk Assessment](https://github.com/mnrjared/Credit-Risk-Assessment)** - Classification model deployed on Render
+- **[Superhero Management C# Application](https://github.com/mnrjared/Superhero-Management-Csharp-Application)** - Windows Forms app with hero management, custom animated UI, and a built-in Pacman game
+- **[RetroSlice Customer Management System](https://github.com/mnrjared/RetroSlice-Customer-Management-System)** - C# console app for managing customers, game tokens, and arcade games at a fictional entertainment venue
+- **[Ringo Wanted Website](https://github.com/mnrjared/Ringo-Wanted-Website)** - Wild West themed bounty hunter portfolio site with animated transitions, sound effects, and a custom crosshair cursor
 
 ---
 
 ## 🎮 Outside of Code
 
 - PC building
-- Gaming - Minecraft, Lethal Company, esports
+- Gaming (Minecraft, Lethal Company, esports)
 - Involved with Pandacity Esports
 - Learning Japanese 🇯🇵
 
@@ -38,6 +41,8 @@ Currently in my third year and studying towards a BCom in Software Engineering w
 [![GitHub](https://img.shields.io/badge/GitHub-mnrjared-181717?style=flat&logo=github)](https://github.com/mnrjared)
 
 ---
+
+*Year 4 industry practical incoming - open to junior dev, backend, and data engineering roles in Gauteng.*
 
 <!--
 **mnrjared/mnrjared** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
